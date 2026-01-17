@@ -45,3 +45,12 @@ smart-scene-analyzer/
 pip install -r requirements.txt
 python src/detect.py
 python src/segment.py
+
+📸 Output
+
+Detection and segmentation results are saved in the outputs/ folder.
+
+👩‍💻 Author
+
+Areej Arslan
+Machine Learning & Computer Vision Engineer (Entry-Level)
